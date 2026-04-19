@@ -1,0 +1,13 @@
+{
+  "name": "ckbirthbot-verification",
+  "version": "1.0.0",
+  "description": "Bytecode verification proof for the CryptoKitties birth bot at 0x00000000a8f806c754549943b6550a2594c9a126",
+  "main": "verify.js",
+  "scripts": {
+    "verify": "node verify.js"
+  },
+  "dependencies": {
+    "solc": "0.4.17"
+  },
+  "license": "CC0-1.0"
+}
